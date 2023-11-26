@@ -1,4 +1,4 @@
-Hi there, my name's Roman and I'm full-stack developer👨‍💻 
+Hi there, my name's Roman and I'm interested in creating impressive and effective web interfaces.👨‍💻 
 
 ### About me:
 
@@ -15,7 +15,7 @@ I am a beginner web developer. My journey in it started with a free 7-day marath
   <br/>
   
 # My Skill Set  
-## Frontend part:
+**Frontend part:
 JavaScript <br />
 React.js  <br />
 HTML CSS  <br />
