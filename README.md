@@ -31,7 +31,7 @@ Express <br />
 Git
 
 # Projects:
-Coctails (HTML, CSS, JS)
-link: cldblz.github.io/cocktails/
+Coctails (HTML, CSS, JS) <br />
+link: [cldblz.github.io/cocktails/]
 
 
