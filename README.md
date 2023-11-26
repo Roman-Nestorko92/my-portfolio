@@ -31,7 +31,9 @@ Express <br />
 Git
 
 # Projects:
-Coctails (HTML, CSS, JS) <br />
+1. Team project <br />
+Technologies: HTML, SASS, JS <br />
+My part is the Hero <br />
 [Cocktails](https://cldblz.github.io/cocktails/)
 
 
