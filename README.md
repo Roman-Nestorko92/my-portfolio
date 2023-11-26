@@ -14,17 +14,17 @@ I am a beginner web developer. My journey in it started with a free 7-day marath
 
   <br/>
   
-## My Skill Set  
-# Frontend part:
-JavaScript
-React.js
-HTML CSS
+# My Skill Set  
+## Frontend part:
+JavaScript <br />
+React.js  <br />
+HTML CSS  <br />
 
-# Backend part:
-Node.js
-MongoDB
-Express
+## Backend part:
+Node.js <br />
+MongoDB <br />
+Express <br />
 
-# DevOps:
+## DevOps:
 Git
 
