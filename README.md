@@ -32,6 +32,7 @@ Git
 
 # Projects:
 Coctails (HTML, CSS, JS) <br />
-[link](cldblz.github.io/cocktails/)
+[Cocktails](https://cldblz.github.io/cocktails/)
+
 
 
