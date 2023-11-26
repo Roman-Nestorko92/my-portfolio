@@ -6,6 +6,8 @@ I am a beginner web developer. My journey in it started with a free 7-day marath
      I signed up for a full 6-month course (full stack) from November 2022 to June 2023. In the course I studied web development. 
      Now that I've finished the courses, I want to join a team where I can be useful and develop my skills! My English level - intermediate
 
+# Education
+
   🌱 I completed 6 month courses from GO IT school (full-stack developer)    
 
   🔭 An additional course from the SoftServe school (HTML, CSS, JS basic)     
@@ -14,11 +16,11 @@ I am a beginner web developer. My journey in it started with a free 7-day marath
 
   <br/>
   
-# My Skill Set  
-**Frontend part:
+# Skill  
+## Frontend part:  
 JavaScript <br />
 React.js  <br />
-HTML CSS  <br />
+HTML, CSS  <br />
 
 ## Backend part:
 Node.js <br />
@@ -27,4 +29,9 @@ Express <br />
 
 ## DevOps:
 Git
+
+# Projects:
+Coctails (HTML, CSS, JS)
+link: cldblz.github.io/cocktails/
+
 
