@@ -36,5 +36,7 @@ Technologies: HTML, SASS, JS <br />
 My part is the Hero <br />
 [Cocktails](https://cldblz.github.io/cocktails/)
 
-
+2. My project <br />
+Technologies: HTML, Styled component, React.js <br />
+[Movie](https://romanxz92.github.io/my-movie/)
 
