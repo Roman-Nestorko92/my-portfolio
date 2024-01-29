@@ -2,7 +2,7 @@ Hi there, my name's Roman and I'm interested in creating impressive and effectiv
 
 ### About me:
 
- Junior Frontend Developer
+ Junior Frontend Developer 
 
 # Education
 
@@ -10,7 +10,7 @@ Hi there, my name's Roman and I'm interested in creating impressive and effectiv
 
   2. An additional course from the SoftServe school (HTML, CSS, JS basic)     
 
-  3. In the past, I was a trainer of oriental martial arts
+  3. JavaScript basic course 42 days from Vycheslav Koldovsky
 
   <br/>
   
