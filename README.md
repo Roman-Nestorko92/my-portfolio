@@ -2,33 +2,26 @@ Hi there, my name's Roman and I'm interested in creating impressive and effectiv
 
 ### About me:
 
-I am a beginner web developer. My journey in it started with a free 7-day marathon where I created my first resume site. I liked it, 
-     I signed up for a full 6-month course (full stack) from November 2022 to June 2023. In the course I studied web development. 
-     Now that I've finished the courses, I want to join a team where I can be useful and develop my skills! My English level - intermediate
+ Junior Frontend Developer
 
 # Education
 
-  🌱 I completed 6 month courses from GO IT school (full-stack developer)    
+  1. I completed 6 month courses from GO IT school (full-stack developer)    
 
-  🔭 An additional course from the SoftServe school (HTML, CSS, JS basic)     
+  2. An additional course from the SoftServe school (HTML, CSS, JS basic)     
 
- ⚡ In the past, I was a trainer of oriental martial arts
+  3. In the past, I was a trainer of oriental martial arts
 
   <br/>
   
-# Skill  
-## Frontend part:  
+### Skill    
 JavaScript <br />
 React.js  <br />
 HTML, CSS  <br />
 
-## Backend part:
 Node.js <br />
 MongoDB <br />
 Express <br />
-
-## DevOps:
-Git
 
 # Projects:
 1. Team project <br />
@@ -36,7 +29,7 @@ Technologies: HTML, SASS, JS <br />
 My part is the Hero <br />
 [Cocktails](https://cldblz.github.io/cocktails/)
 
-2. My project <br />
+2. Pet project <br />
 Technologies: HTML, Styled component, React.js <br />
 [Movie](https://romanxz92.github.io/my-movie/)
 
