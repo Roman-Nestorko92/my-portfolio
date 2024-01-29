@@ -1,9 +1,5 @@
-Hi there, my name's Roman and I'm interested in creating impressive and effective web interfaces.👨‍💻 
-
-### About me:
-
- Junior Frontend Developer 
-
+Hi there, my name's Roman and I'm interested in creating impressive and effective web interfaces.👨‍💻
+ 
 # Education
 
   1. I completed 6 month courses from GO IT school (full-stack developer)    
@@ -15,21 +11,21 @@ Hi there, my name's Roman and I'm interested in creating impressive and effectiv
   <br/>
   
 ### Skill    
-JavaScript <br />
-React.js  <br />
-HTML, CSS  <br />
+1. JavaScript <br />
+2. React.js  <br />
+3. HTML, CSS  <br />
 
-Node.js <br />
-MongoDB <br />
-Express <br />
+4. Node.js <br />
+5. MongoDB <br />
+6. Express <br />
 
 # Projects:
-1. Team project <br />
-Technologies: HTML, SASS, JS <br />
-My part is the Hero <br />
-[Cocktails](https://cldblz.github.io/cocktails/)
+  Team project <br />
+  Technologies: HTML, SASS, JS <br />
+  My part is the Hero <br />
+  [Cocktails](https://cldblz.github.io/cocktails/)
 
-2. Pet project <br />
-Technologies: HTML, Styled component, React.js <br />
-[Movie](https://romanxz92.github.io/my-movie/)
+  Pet project <br />
+  Technologies: HTML, Styled component, React.js <br />
+  [Movie](https://romanxz92.github.io/my-movie/)
 
