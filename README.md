@@ -31,5 +31,5 @@ Hi there, my name's Roman and I'm interested in creating impressive and effectiv
   Through the app, users can access comprehensive information about any movie, including ratings and reviews. Leveraging the themoviedb.org database, the program ensures up-to-date and detailed information. 
   Developed using React.js, the application seamlessly combines efficiency and aesthetics to cater to the needs of every movie enthusiast.
   
-  [Movie](https://romanxz92.github.io/my-movie/)
+  [Movie](https://roman-nestorko92.github.io/my-movie/)
 
