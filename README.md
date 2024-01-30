@@ -20,13 +20,13 @@ Hi there, my name's Roman and I'm interested in creating impressive and effectiv
 6. Express <br />
 
 # Projects:
-  Team project <br />
-  Technologies: HTML, SASS, JavaScript <br />
-  My part is the Hero <br />
-  [is an application with its own database of cocktails in which you can choose your favorite cocktail or make it yourself]
-  [Cocktails](https://cldblz.github.io/cocktails/)
+ ## Team project <br />
+ ### Technologies: HTML, SASS, JavaScript <br />
+ ### My part is the Hero <br />  
+ This is an application with its own cocktail database, in which you can choose your favorite cocktail or prepare it yourself, the application is written in JavaScript <br />
+ [Cocktails](https://cldblz.github.io/cocktails/)
 
-  PET-project <br />
+ ## PET-projects <br />
   Technologies: HTML, Styled component, React.js <br />
   
   The movie project is a search application designed for convenient movie discovery. The application not only allows users to quickly find a specific film but also provides a list of popular movies of the week. 
