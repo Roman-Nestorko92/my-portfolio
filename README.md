@@ -16,4 +16,4 @@
   This is a simple and small application that shows the current weather in the city, 
   connected to the free database openweathermap.org/api/ and still in the process of improvement. <br />
 
-[Weather](https://roman-nestorko92.github.io/weather/)
+  [Weather](https://roman-nestorko92.github.io/weather/)
