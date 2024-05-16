@@ -13,7 +13,7 @@
   [Movie](https://roman-nestorko92.github.io/movie/)
 
 ### Technologies: HTML, CSS, React.js <br />  
-  This is a simple and small application that shows the current weather in the city, 
-  connected to the free database openweathermap.org/api/ and still in the process of improvement. <br />
+  The "Weather" project is a web application that allows users to retrieve weather information for different locations. 
+  The application utilizes data from the OpenWeatherMap API to obtain weather conditions. <br />
 
   [Weather](https://roman-nestorko92.github.io/weather/)
