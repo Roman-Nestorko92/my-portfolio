@@ -17,3 +17,10 @@
   The application utilizes data from the OpenWeatherMap API to obtain weather conditions. <br />
 
   [Weather](https://roman-nestorko92.github.io/weather/)
+
+### Technologies: HTML, CSS, javaScript <br /> 
+  The Task List App is a simple, user-friendly web application designed to help users manage their daily tasks efficiently. 
+  Users can add, remove, and check off tasks, with all changes being saved to local storage 
+  so that their task list persists across browser sessions.
+  
+  [Task](https://roman-nestorko92.github.io/my-tasks/)
